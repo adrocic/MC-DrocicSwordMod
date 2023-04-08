@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sword",
+  "name": "Drocic's Custom Sword",
+  "description": "Adds the sword of Drocic! An all-powerful weapon from ancient times... idk",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Drocic"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
